@@ -119,7 +119,11 @@ section.main {
         /* height: 100vh; */
         /* padding-block: 18rem; */
     }
+    .main__content p{
+        font-size: 0.9rem;
+    }
     .main__container{
-        height: 55rem;
+        /* height: 55rem; */
+        /* margin-block: 8rem; */
     }
 }
